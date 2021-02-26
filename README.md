@@ -1,4 +1,4 @@
-# RNN implementation from scratch using Pytorch
+# RNN implementation from scratch using Numpy
 
 The main goal is to use RNN to solve the memory task.The task is to remember the first element in the input sequence. That is, given a sequence of random numbers, the RNN should output at the last time step the first element of the input sequence.This can be framed as a regression task.
 
